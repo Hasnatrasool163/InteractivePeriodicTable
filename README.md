@@ -5,7 +5,9 @@ Features ✨
 Interactive Periodic Table: Click on elements to view detailed information.
 Search Functionality: Find elements quickly using the search feature.
 Responsive Layout: Optimized for various screen sizes and resolutions.
-Customizable Themes: Switch between different themes to personalize your experience.
+Compare Element:
+Electronic Configuration Of Elements.
+Form Compounds of Elements.
 Prerequisites ⚙️
 Java JDK 22 or later
 JavaFX SDK 21.0.2 or later
