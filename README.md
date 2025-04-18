@@ -2,7 +2,8 @@
 
 A dynamic and educational JavaFX application providing an interactive way to explore the periodic table of elements with rich features for chemistry enthusiasts, students, and educators.
 
-![Periodic Table Screenshot]
+![Periodic Table Screenshot](https://github.com/user-attachments/assets/621bef8b-9bd5-4aab-b757-554292ecce41)
+
 
 ## Features
 
@@ -23,16 +24,20 @@ A dynamic and educational JavaFX application providing an interactive way to exp
 ## Screenshots
 
 ### Main Interface
-![Main Interface]
+![Main Interface](https://github.com/user-attachments/assets/a4ccd5f4-6c9c-4ea9-ac59-93a3df37fca5)
+
 
 ### Element States View
-![Element States]
+![Element States](https://github.com/user-attachments/assets/3a30efff-bb83-427b-ac36-e0e8155a32b8)
+
 
 ### Element Image View
-![Element Image]
+![Element Image]![images-of-products](https://github.com/user-attachments/assets/e6858614-54a7-4d21-a213-c25207c7e7aa)
+
 
 ### Electron Configuration
-![Electron Configuration]
+![Electron Configuration](https://github.com/user-attachments/assets/0cb9284d-f360-474b-998f-82d9110fd094)
+
 
 ## Requirements
 
