@@ -1,0 +1,54 @@
+.element-pane {
+    -fx-background-color: lightgray;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-transition: scale 0.3s ease;
+}
+
+.element-pane:hover {
+    -fx-background-color: lightblue;
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+
+.element-pane {
+    -fx-transition: scale 0.3s ease;
+}
+
+.element-pane:focused {
+    -fx-effect: dropshadow(gaussian, rgba(255, 0, 0, 0.8), 10, 0, 0, 0);
+}
+
+.tooltip {
+    -fx-background-color: lightyellow;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+    -fx-font-weight: BOLD;
+    -fx-font-family: "Tahoma";
+}
+
+.button:hover{
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+    -fx-background-color: skyblue;
+}
+
+.text-field{
+    -fx-font-family: "Tahoma";
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-background-color: grey;
+}
+
+.text-field:hover{
+    -fx-scale-y: 1.2;
+    -fx-font-scale: true;
+}
